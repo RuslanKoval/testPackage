@@ -19,8 +19,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.2-dev"
-        }
+        "class": "rus\\testPackage\\TestClass"
     }
 }
