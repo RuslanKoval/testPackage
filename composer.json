@@ -1,7 +1,7 @@
 {
     "name": "rus/test-package",
     "description": "my first package",
-    "type": "composer-plugin",
+    "type": "library",
     "authors": [
         {
             "name": "Ruslan Koval",
