@@ -1,0 +1,21 @@
+{
+    "name": "rus/test-package",
+    "description": "my first package",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Ruslan Koval",
+            "email": "ruslan.koval21@gmail.com"
+        }
+    ],
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "rus\\testPackage\\": "src/"
+        }
+    }
+}
